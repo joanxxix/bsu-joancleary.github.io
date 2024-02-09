@@ -1,4 +1,4 @@
-# Example Github Page!
+## Example Github Page!
 
 Hello! This is an example Github page that you will create in CS-HU250 :)
 
